@@ -1,1 +1,11 @@
 # Design Process
+{
+ Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "always"
+}
